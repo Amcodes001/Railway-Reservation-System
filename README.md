@@ -1,4 +1,4 @@
-##Online banking management system using system calls in C programming .
+##Online Railway reservation system using system calls in C programming .
 
 => COMPILE :-
 
